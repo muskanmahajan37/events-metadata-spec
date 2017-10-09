@@ -1,0 +1,98 @@
+{
+  "events": [
+    {
+      "id": "event id",
+      "key": "value / slug",
+      "geometry": {
+        "type": "Point",
+          "coordinates": [
+            -149.9849,
+            61.4624,
+            46.7
+          ]
+      },
+      "type": "Feature",
+        "properties": {
+          "mag": 1.3,
+          "place": "6km SSW of Big Lake, Alaska",
+          "time": 1388619956000,
+          "updated": 1388629238196,
+          "tz": -540,
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak10934318",
+          "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ak10934318&format=geojson",
+          "felt": null,
+          "cdi": null,
+          "mmi": null,
+          "alert": null,
+          "status": "reviewed",
+          "tsunami": 0,
+          "sig": 26,
+          "net": "ak",
+          "code": "10934318",
+          "ids": ",ak10934318,",
+          "sources": ",ak,",
+          "types": ",cap,general-link,general-link,geoserve,nearby-cities,origin,tectonic-summary,",
+          "nst": null,
+          "dmin": null,
+          "rms": 0.65,
+          "gap": null,
+          "magType": "ml",
+          "type": "earthquake",
+          "title": "M 1.3 - 6km SSW of Big Lake, Alaska"
+        },
+      "provider": "provider name",
+      "provider_id": "provider id or hash",
+      "system": "system name",
+      "system_id": "system id",
+      "timestamp": "unixtime",
+      "data": "SGVsbG8gQ2xvdWQgUHViL1N1YiEgSGVyZSBpcyBteSBtZXNzYWdlIQ=="
+    },
+    {
+      "id": "event id",
+      "key": "value / slug",
+      "geometry": {
+        "type": "Point",
+          "coordinates": [
+            -149.9849,
+            61.4624,
+            46.7
+          ]
+      },
+      "type": "Feature",
+        "properties": {
+          "mag": 1.3,
+          "place": "6km SSW of Big Lake, Alaska",
+          "time": 1388619956000,
+          "updated": 1388629238196,
+          "tz": -540,
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak10934318",
+          "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ak10934318&format=geojson",
+          "felt": null,
+          "cdi": null,
+          "mmi": null,
+          "alert": null,
+          "status": "reviewed",
+          "tsunami": 0,
+          "sig": 26,
+          "net": "ak",
+          "code": "10934318",
+          "ids": ",ak10934318,",
+          "sources": ",ak,",
+          "types": ",cap,general-link,general-link,geoserve,nearby-cities,origin,tectonic-summary,",
+          "nst": null,
+          "dmin": null,
+          "rms": 0.65,
+          "gap": null,
+          "magType": "ml",
+          "type": "earthquake",
+          "title": "M 1.3 - 6km SSW of Big Lake, Alaska"
+        },
+      "provider": "provider name",
+      "provider_id": "provider id or hash",
+      "system": "system name",
+      "system_id": "system id",
+      "timestamp": "unixtime",
+      "data": "SGVsbG8gQ2xvdWQgUHViL1N1YiEgSGVyZSBpcyBteSBtZXNzYWdlIQ=="
+    }
+  ]
+}
